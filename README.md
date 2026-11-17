@@ -1,12 +1,23 @@
-# bst260project-template
+# finalproject
 
-Instructions and template for projects for 2026 HSPH BST260
+BST260 Final Project — Fall 2026
 
-Your project will be a working GitHub pages site that presents your interpretation
-of features of public health datasets.
+## Project Overview
 
-Please see [instructions](https://vjcitn.github.io/bst260project-template/articles/instructions.html) to set up the infrastructure for your project and to learn about available datasets
+This project investigates geographic and temporal
+patterns in homicide and firearm mortality in the
+United States using publicly available CDC datasets.
 
-Please see [project suggestion text](https://vjcitn.github.io/bst260project-template/articles/stubs.html) for
-some suggestions of how you might proceed with project work on selected datasets.  More content will be
-added to this page in the near future.
+The project includes reproducible analyses, statistical
+visualizations, and documentation of findings and
+limitations.
+
+## Datasets
+
+1. CDC Homicide Mortality (`cdcmurd`)
+2. CDC Firearm Mortality (`cdcfiremort`)
+
+## Project Website
+
+https://a-l-i-c-e-CE605.github.io/finalproject/
+
