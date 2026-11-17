@@ -1,20 +1,35 @@
-Package: bst260project
-Title: project code and narrative
+
+Package: finalproject
+Title: Geographic and Temporal Patterns in Homicide and Firearm Mortality
 Version: 0.0.3
 Authors@R:
-    person(given = "yourfirstname",
-           family = "lastname",
+    person(given = "Jialin",
+           family = "Du",
            role = c("aut", "cre"),
-           email = "youremail@gmail.com",
-           comment = c(ORCID = "0000-0002-1825-0097"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
+           email = "jialindu@hsph.harvard.edu")
+Description: This project investigates geographic and temporal
+    patterns in homicide and firearm mortality in the United
+    States using publicly available CDC datasets. It examines
+    variation in mortality rates across states and over time
+    through descriptive statistics and data visualization.
+    It documents data provenance, explores differences between
+    mortality measures, and discusses uncertainty and
+    limitations in interpreting observed patterns.
 Depends: R (>= 4.5.0)
-Suggests: knitr, testthat, rmarkdown, pkgdown
+Imports:
+    stats,
+    utils
+Suggests:
+    knitr,
+    testthat,
+    rmarkdown,
+    pkgdown,
+    quarto
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/youreponame
-BugReports: https://github.com/youreponame/issues
+URL: https://github.com/a-l-i-c-e-CE605/finalproject
+BugReports: https://github.com/a-l-i-c-e-CE605/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
+
