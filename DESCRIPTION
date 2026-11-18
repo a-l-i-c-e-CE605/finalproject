@@ -28,7 +28,7 @@ Suggests:
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/a-l-i-c-e-CE605/finalproject
+URL: https://a-l-i-c-e-CE605.github.io/finalproject/, https://github.com/a-l-i-c-e-CE605/finalproject
 BugReports: https://github.com/a-l-i-c-e-CE605/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
